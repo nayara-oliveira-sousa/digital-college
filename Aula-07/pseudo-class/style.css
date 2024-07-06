@@ -1,0 +1,43 @@
+div:hover{
+    background-color: darkcyan;
+}
+
+button{
+    background-color: darkblue;
+}
+
+button:hover{
+    background-color: darkred;
+}
+
+button:active{
+    background-color: darkgreen;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: darkred;
+}
+
+a:hover{
+    color: darkgoldenrod;
+}
+
+input:disabled{
+    background-color: red;
+}
+table{
+    border-color: collapse;
+}
+
+td,th{
+    border: 1px solid black;
+    padding: 0 12px;
+}
+
+tbody tr:nth-child(odd){
+background-color: darkgrey;
+}
