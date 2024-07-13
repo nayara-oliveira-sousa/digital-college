@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+
+img{
+ width: 300px;
+border-radius: 100%;
+}
+
+body{
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.instagram{
+ width: 40px;
+ flex-direction:row-reverse
+ 
+}
+
+.twitter{
+    width: 40px;
+    flex-direction:row-reverse;
+}
